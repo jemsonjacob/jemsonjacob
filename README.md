@@ -14,10 +14,6 @@ I enjoy transforming ideas into real-world applications with a strong focus on *
 * 🏗️ Practicing **Clean Architecture & MVVM**
 * 🔄 Working with **BLoC, Riverpod, Provider & GetX**
 * 🌐 Integrating **REST APIs** using Dio
-* 🔥 Working with **Firebase Authentication**
-* 💾 Using **Hive, SQLite & SharedPreferences**
-* 💉 Using **GetIt** for dependency injection
-* 🧪 Learning and implementing Flutter testing
 * 📱 Interested in building and publishing production-ready Flutter applications
 * 🌱 Always learning and improving my development skills
 
