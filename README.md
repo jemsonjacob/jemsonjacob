@@ -235,8 +235,5 @@ class JemsonJacob {
 }
 ```
 
----
 
-### ⭐ Thanks for visiting my profile!
 
-**Keep building. Keep learning. Keep improving. 🚀**
