@@ -116,22 +116,7 @@ User Friendly
 
 # 🎯 My Goal
 
-> **Build clean, scalable and production-ready Flutter applications that provide a great user experience.**
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on projects, and learning new technologies.
-
-<p>
-  <a href="https://github.com/jemsonjacob">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/jemsonjacob">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> **Build clean, scalable and production-ready Flutter applications that provide a great user expe/rience.**
 
 ---
 
